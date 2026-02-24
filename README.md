@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Milan Rai</h1>
 
--🎓 First Year BSc (Hons) Computing Student 
+- 🎓 First Year BSc (Hons) Computing Student 
 
--🏫 Studying at Itahari International College, Nepal 
+- 🏫 Studying at Itahari International College, Nepal 
 
--💻 Passionate about learning and problem-solving 
+- 💻 Passionate about learning and problem-solving 
 
--🌱 Always improving my coding skills and building projects</h3>
+- 🌱 Always improving my coding skills and building projects</h3>
 
 - 🌱 I’m currently learning **Full Stack Development**
 
