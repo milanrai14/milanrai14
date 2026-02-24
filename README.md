@@ -1,3 +1,7 @@
+# Hi 👋, I'm Milan Rai
+----
+
+
 # 💫 About Me:
 <br>🎓 First Year BSc (Hons) Computing Student<br><br>🏫 Studying at Itahari International College, Nepal<br><br>💻 Passionate about learning and problem-solving<br><br>🌱 Always improving my coding skills and building projects<br><br>🌱 I’m currently learning Full Stack Development
 
