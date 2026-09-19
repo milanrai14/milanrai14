@@ -1,5 +1,12 @@
 <div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center; min-height: 100vh;">
-Learning Day By Day!!
+ 
+# Hi, I'm Milan Rai 
+ 
+### Aspiring AI & Machine Learning Engineer
+ 
+Passionate about building intelligent applications with Python, TensorFlow, PyTorch, and FastAPI. Currently sharpening my skills day by day and documenting the journey — from data preprocessing and model building to deploying real-world applications.
+
+                                               Learning Day By Day!!
  
 
 ## 📱 Ping Me!
