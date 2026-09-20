@@ -12,7 +12,7 @@ Passionate about building intelligent applications with Python, TensorFlow, PyTo
 ## 📱 Ping Me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/milanrai14)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=milanraii014@gmail.com)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/9823459115?text=Hello%20Milan!)  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/share/1EsfumxyYW/)
 
-# 🔧 Tools of the Trade
+# 🛠️ Technical Skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -37,7 +37,7 @@ Passionate about building intelligent applications with Python, TensorFlow, PyTo
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
  
-# 📈 Upward & Onward
+# 📈 Progress in Motion
 ![](https://github-readme-stats.shion.dev/api?username=milanrai14&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=milanrai14&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=milanrai14&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
