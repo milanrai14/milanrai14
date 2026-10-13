@@ -2,8 +2,8 @@
  
 # Hi, I'm Milan Rai 
  
-### Aspiring AI & Machine Learning Engineer | GenAI & LLM Applications
- 
+### Aspiring AI Engineer | LLM Applications & RAG Systems
+
 I design and build AI-powered applications using Python, LangChain, and FastAPI, specializing in LLM integrations, Retrieval-Augmented Generation (RAG) pipelines, and production-ready APIs. My experience spans OpenAI, Anthropic, Google Gemini, Hugging Face, and Ollama. I am committed to continuous learning and openly document my progress through hands-on projects.
 
   Learning Day By Day!!
