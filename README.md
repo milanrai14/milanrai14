@@ -2,9 +2,9 @@
  
 # Hi, I'm Milan Rai 
  
-### Aspiring AI & Machine Learning Engineer
+### Aspiring AI & Machine Learning Engineer | GenAI & LLM Applications
  
-Passionate about building intelligent applications with Python, TensorFlow, PyTorch, and FastAPI. Currently sharpening my skills day by day and documenting the journey — from data preprocessing and model building to deploying real-world applications.
+I design and build AI-powered applications using Python, LangChain, and FastAPI, specializing in LLM integrations, Retrieval-Augmented Generation (RAG) pipelines, and production-ready APIs. My experience spans OpenAI, Anthropic, Google Gemini, Hugging Face, and Ollama. I am committed to continuous learning and openly document my progress through hands-on projects.
 
   Learning Day By Day!!
  
